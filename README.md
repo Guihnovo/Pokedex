@@ -1,10 +1,12 @@
+<img src="https://github.com/Guihnovo/Pokedex/blob/main/pokedex/src/image/pokdex.jpg" width="500px"></img>
+
 #### Status do Projeto: Concluído :heavy_check_mark:
 
 ## Objetivos :star:
 
  - Lista de Pokémons com funções de adicionar e remover à Pokedex, podendo também ver o detalhes do Pokemon.
 
-## Linguagens e Libs utilizadas 
+## Linguagens e Libs utilizadas :computer:
 
 - React
 - Styled-components
