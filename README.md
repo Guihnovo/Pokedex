@@ -1,5 +1,3 @@
-
-
 #### Status do Projeto: Concluído :heavy_check_mark:
 
 ## Objetivos :star:
@@ -43,12 +41,4 @@ http://onerous-map.surge.sh/
 
 |[<img src="https://github.com/Asoaresdev.png" width=115 > <br> <sub> Andrea Soares </sub>](https://github.com/Asoaresdev)|[<img src="https://github.com/guihnovo.png" width=115 > <br> <sub> Guilherme Novo </sub>](https://github.com/guihnovo) |
 | :---: | :---: | 
-
-
-
-
-
-
-
-
 
